@@ -1,0 +1,7 @@
+C:\Users\Isaac Mora\source\repos\ejercicio 8 examen\ejercicio 8 examen\bin\Debug\ejercicio 8 examen.exe.config
+C:\Users\Isaac Mora\source\repos\ejercicio 8 examen\ejercicio 8 examen\bin\Debug\ejercicio 8 examen.exe
+C:\Users\Isaac Mora\source\repos\ejercicio 8 examen\ejercicio 8 examen\bin\Debug\ejercicio 8 examen.pdb
+C:\Users\Isaac Mora\source\repos\ejercicio 8 examen\ejercicio 8 examen\obj\Debug\ejercicio 8 examen.csproj.AssemblyReference.cache
+C:\Users\Isaac Mora\source\repos\ejercicio 8 examen\ejercicio 8 examen\obj\Debug\ejercicio 8 examen.csproj.CoreCompileInputs.cache
+C:\Users\Isaac Mora\source\repos\ejercicio 8 examen\ejercicio 8 examen\obj\Debug\ejercicio 8 examen.exe
+C:\Users\Isaac Mora\source\repos\ejercicio 8 examen\ejercicio 8 examen\obj\Debug\ejercicio 8 examen.pdb
