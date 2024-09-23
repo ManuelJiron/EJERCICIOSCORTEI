@@ -109,6 +109,7 @@ namespace EJERCICIO4Y5REGISTROS
             for (int i = 1; i < MAX; i++)
             {
                 empleados[i].Buscar(empleados);
+                break;
             }
             Console.ReadKey();
         }
