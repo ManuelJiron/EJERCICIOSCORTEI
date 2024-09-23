@@ -7,7 +7,10 @@ using System.Threading.Tasks;
 
 namespace ejercicio_1_examen
 {
+/*Crea un struct llamado “Estudiante” con campos para Nombre, Edad, y Promedio. Luego, escribe un programa que cree una instancia de “Estudiante”, 
+asigne valores a los campos, y muestre la información en la consola. El programa se repetirá las veces que el usuario lo desee. 
 
+ */
     public struct estudiante
     {
         public double Promedio;
