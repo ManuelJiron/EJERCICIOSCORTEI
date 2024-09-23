@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ejercicio_8_examen
 {
+    /*8. Crea un struct llamado “CuentaBancaria” con campos para NumeroDeCuenta, NombreTitular, y Saldo. 
+    Agrega un constructor que permita inicializar todos los campos. Crea un arreglo 
+    de “CuentaBancaria”, inicialízalo usando el constructor, y muestra la información de cada cuenta. */
     public struct CuentaBancaria
     {
         public int NumeroDeCuenta;
